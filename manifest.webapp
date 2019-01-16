@@ -1,0 +1,26 @@
+{
+  "name": "Jump",
+  "description": "Jump",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "fullscreen": true,
+  "default_locale": "en-US",
+  "permissions": {
+    "softkey": {},
+    "feature-detection": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Jump",
+      "description": "Jump"
+    }
+  },
+  "icons": {
+    "56": "/style/icons/jump_56.png",
+    "84": "/style/icons/jump_84.png",
+    "112": "/style/icons/jump_112.png"
+  },
+  "orientation": "default",
+  "activities": {},
+  "messages": []
+}
